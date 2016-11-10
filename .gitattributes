@@ -1,0 +1,2 @@
+*.sh linguist-language=Docker
+*.yml linguist-language=Docker
