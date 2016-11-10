@@ -1,0 +1,6 @@
+
+.ftpconfig
+
+*.tar.gz
+
+logs/
